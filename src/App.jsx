@@ -4,7 +4,6 @@ import Skills from "./components/skills"
 import Projects from "./components/project"
 import Contact from "./components/contact"
 import Footer from "./components/footer"
-import FloatingBackground from "./components/floating"
 function App() {
   return (
     <div className="bg-gray-950 text-white min-h-screen">
