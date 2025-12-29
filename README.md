@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React and Vite, showcasing my 
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://prajithps-portfolio.vercel.app/) *(Replace with actual deployment URL)*
+[View Live Portfolio](https://prajithps-portfolio.vercel.app/) 
 
 ## ✨ Features
 
